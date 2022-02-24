@@ -43,6 +43,8 @@ Without creating folder
 $ create-dotnet-app
 ```
 
+---
+
 Create folder and cd
 
 ```js
