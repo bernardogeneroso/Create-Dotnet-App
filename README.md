@@ -25,7 +25,7 @@ $ git clone https://github.com/bernardogeneroso/Create-Dotnet-App
 ```
 
 ```bash
-$ npm i && npm i -g .
+$ cd Create-Dotnet-App && npm i && npm i -g .
 ```
 
 # Why?
