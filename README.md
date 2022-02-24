@@ -39,8 +39,6 @@ $ create-dotnet-app -f name
 
 This project create default Web API and Console applications.
 
-<br/>
-
 # :computer: Authors
 
 <table>

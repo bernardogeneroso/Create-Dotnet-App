@@ -1,6 +1,6 @@
 {
     "name": "create-dotnet-app",
-    "version": "1.1.2",
+    "version": "1.1.4",
     "description": "Create dotnet application",
     "main": "index.js",
     "author": "Bernardo Generoso <admin@bernardogeneroso.com>",
