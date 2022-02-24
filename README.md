@@ -8,15 +8,38 @@
  <img alt="License" src="https://img.shields.io/badge/license-MIT-DC1637">
 </p>
 
-<br />
+# Install
 
-## Why?
+```js
+$ npm i -g create-dotnet-app
+```
+
+# Why?
 
 -   Simplified the process of creating dotnet application.
 
-## Support
+# How to use?
+
+1. Install
+2. In the folder where you want to create the project, just run the command below
+
+Without creating the folder
+
+```js
+$ create-dotnet-app
+```
+
+Creating the folder and cd
+
+```js
+$ create-dotnet-app -f name
+```
+
+# Support
 
 This project create default Web API and Console applications.
+
+<br/>
 
 # :computer: Authors
 
