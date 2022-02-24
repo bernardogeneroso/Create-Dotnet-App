@@ -3,14 +3,14 @@
 import chalk from "chalk";
 import inquirer from "inquirer";
 import gradient from "gradient-string";
-import chalkAnimation from "chalk-animation";
 import figlet from "figlet";
 import { createSpinner } from "nanospinner";
 import shell from "shelljs";
 import { fileURLToPath } from "url";
-import { dirname } from "path";
 import minimist from "minimist";
 import buildOptions from "minimist-options";
+// import chalkAnimation from "chalk-animation";
+// import { dirname } from "path";
 
 const options = buildOptions({
     folder: {
@@ -23,7 +23,7 @@ const options = buildOptions({
 const args = minimist(process.argv.slice(2), options);
 
 const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
+// const __dirname = dirname(__filename);
 
 const sleep = (ms = 2000) => new Promise((r) => setTimeout(r, ms));
 

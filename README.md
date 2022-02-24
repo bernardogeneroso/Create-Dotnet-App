@@ -10,8 +10,22 @@
 
 # Install
 
-```js
-$ npm i -g create-dotnet-app
+Without installation
+
+```bash
+$ npx create-dotnet-app
+```
+
+---
+
+Manual installation
+
+```bash
+$ git clone https://github.com/bernardogeneroso/Create-Dotnet-App
+```
+
+```bash
+$ npm i && npm i -g .
 ```
 
 # Why?
