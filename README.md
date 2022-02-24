@@ -23,13 +23,13 @@ $ npm i -g create-dotnet-app
 1. Install
 2. In the folder where you want to create the project, just run the command below
 
-Without creating the folder
+Without creating folder
 
 ```js
 $ create-dotnet-app
 ```
 
-Creating the folder and cd
+Create folder and cd
 
 ```js
 $ create-dotnet-app -f name
